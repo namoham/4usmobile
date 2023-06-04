@@ -41,3 +41,4 @@ class Activity {
     this._activity = json['Name'];
   }
 }
+
