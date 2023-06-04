@@ -19,3 +19,5 @@ class LoginResponse {
         .catchError((onError) => _callBack.onLoginError(onError.toString()));
   }
 }
+
+
