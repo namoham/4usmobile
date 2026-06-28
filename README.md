@@ -62,18 +62,6 @@ The 4US mobile app is a cooperative financial management platform serving cooper
 
 ---
 
-## 📸 Screenshots
-
-[Add screenshots here if available]
-
----
-
-## 🎥 Demo
-
-[Link to screen recording or APK if available]
-
----
-
 ## 📝 Lessons Learned
 
 - Building for offline-first is critical in markets with unreliable connectivity
